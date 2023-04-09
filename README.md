@@ -1,10 +1,4 @@
 # Project 4
-- **Assigned: Friday March 17**
-- **Task 1 Due: Friday March 24, 11:59pm**
-- **Task 2 Due: Friday April 7, 11:59pm**
-
-Assigned by Joe Mertz  
-Please direct questions to Piazza, to a TA, or to Joe.
 
 **Three status notes:**
  - Like the other projects, you must do this project alone. 
