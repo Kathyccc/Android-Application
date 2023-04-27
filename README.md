@@ -1,10 +1,3 @@
-# Project 4
-
-**Three status notes:**
- - Like the other projects, you must do this project alone. 
- - The updated information on how to deploy Task 2 to the cloud and how to submit Task 2 for grading has been added below.
-  - The images have been re-labled to reflect using GitHub Codespaces.
-
 ## Project Topics: Mobile to Cloud application
 
 This project has 2 tasks:
